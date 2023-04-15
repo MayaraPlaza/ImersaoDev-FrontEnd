@@ -1,0 +1,129 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 400px;
+  background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/tabela-classificacao-bg.png");
+  background-color: #111;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  min-width: 560px;
+  margin: auto;
+  border: 2px solid white;
+  border-collapse: collapse;
+  width: 70%;
+}
+p {
+  color: white;
+  font-size: 12px;
+  margin-top: 100px;
+}
+
+h1 {
+  color: white;
+}
+
+th,
+tr,
+td {
+  border: solid 1px rgb(91, 194, 253);
+  color: white;
+}
+
+button {
+  background-color: white;
+  width: 100px;
+  height: 25px;
+  margin: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  background-color: rgb(91, 194, 253);
+  color: black;
+  box-shadow: 1px 1px 1px rgb(41, 35, 35);
+  transform: scale(1.1);
+}
+input {
+  margin-top: 50px;
+}
+button#adicionar {
+  margin-top: 20px;
+}
+
+input,
+button#adicionar {
+  width: 200px;
+  height: 35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+}
+
+button#adicionar:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  background-color: rgb(96, 179, 218);
+  color: black;
+  box-shadow: 3px 3px 3px rgb(29, 25, 25);
+  transform: scale(1.1);
+}
+
+input:focus {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+div.footer {
+  height: 300px;
+  margin-top: 100px;
+  color: white;
+  font-size: 12px;
+}
+div.footer img {
+  margin-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+a:hover {
+  transition: 0.5s;
+  color: rgb(107, 174, 212);
+}

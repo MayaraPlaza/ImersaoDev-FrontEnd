@@ -2,14 +2,14 @@
 Projetos realizados durante a imersão dev Front-end da Alura
 
 <ul>
-<li>Aula 01 - Calculadora de media </li>
-<li>Aula 02 - Conversor de moedas</li>
-<li>Aula 03 - Jogo Mentalista</li>
-<li>Aula 04 - Alura Flix - Meus filmes e series favoritas</li>
-<li>Aula 05 - Alura Flix - Adicione seus filmes favoritos</li>
-<li>Aula 06 - Tabela de classificação</li>
-<li>Aula 07 - Jogo Super Trunfo</li>
-<li>Aula 08 - Jogo Super Trunfo com cartas</li>
+  <li>Aula 01 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula01/">Calculadora de media</a> </li>
+<li>Aula 02 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula02/">Conversor de moedas</a></li>
+<li>Aula 03 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula03/">Jogo Mentalista</li>
+<li>Aula 04 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula04/">Alura Flix - Meus filmes e series favoritas</li>
+<li>Aula 05 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula05/">Alura Flix - Adicione seus filmes favoritos</li>
+<li>Aula 06 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula06/">Tabela de classificação</li>
+<li>Aula 07 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula07/">Jogo Super Trunfo</li>
+<li>Aula 08 - <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula08/">Jogo Super Trunfo com cartas</li>
 <li>Aula 09 - Iniciando o projeto Portfolio</li>
 <ul>
 

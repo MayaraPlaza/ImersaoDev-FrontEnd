@@ -10,7 +10,9 @@ Projetos realizados durante a imersão dev Front-end da Alura
 <li>Aula 06 - <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula06/">Tabela de classificação</li>
 <li>Aula 07 - <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula07/">Jogo Super Trunfo</li>
 <li>Aula 08 - <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula08/">Jogo Super Trunfo com cartas</li>
-<li>Aula 09 - Iniciando o projeto Portfolio</li>
+<li>Aula 09 - <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula09/">Iniciando Portfolio</li></li>
+<li>Aula 10 - <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula10/">Portfolio - Certificard</li></li>
+
 <ul>
 
 # Aprendizado:
